@@ -12,9 +12,33 @@ Features
 * Supports multiple post formats (e.g., standard, image, video, audio, quote)
 * Customizable colors and fonts
 * Supports custom menus
+* supports multiple languages
 * Supports social media links
 * Supports Google Analytics tracking
 * Supports Disqus comments
+* Supports syntax highlighting
+* Supports image lightbox
+* Supports RSS feeds (All content/Short content, Blog only, Blog and Pages)
+* Supports custom 404 page
+* Supports custom CSS and JavaScript
+* Supports custom shortcodes(youtube, bilibili)
+* Supports custom widgets
+* Supports custom footer text
+* Supports custom favicon
+* Supports custom robots.txt
+* Supports custom sitemap.xml
+* Supports custom opengraph and twitter card meta tags
+* Supports custom post reading time
+* Supports custom post word count
+* Supports custom post share links
+* Supports custom post date format
+* Supports custom post update date format
+* Supports custom post tags
+* Supports custom post categories
+* Supports custom post series
+* Supports custom post related posts
+* Supports custom post comments
+* Supports custom post license
 
 Installation
 ------------
