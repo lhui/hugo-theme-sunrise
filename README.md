@@ -39,6 +39,8 @@ Features
 - [ ] Supports custom post related posts
 - [ ] Supports custom post comments
 - [ ] Supports custom post license
+- [ ] Supports post search
+- [ ] Supports search engine optimization (SEO)
 
 Installation
 ------------
